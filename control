@@ -1,0 +1,9 @@
+Package: com.avangelista.berealunblur
+Name: BeReal Unblur
+Author: Avangelista <no>
+Description: Unblur your friends’ posts!
+Depends: mobilesubstrate
+Maintainer: Avangelista <no>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
